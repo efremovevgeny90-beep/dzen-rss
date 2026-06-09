@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /feed.xml
+Allow: /feed
+Allow: /articles/
+Allow: /media/
