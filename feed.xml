@@ -1,9 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:ns2="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Domiko Pro</title>
+    <item><title>Один кассовый эпизод вместо обещания «видеть весь ресторан»</title><guid isPermaLink="false">362eb150d3c4c27fde3be4601ee6c8910de8b84cf7f70f0535cec363b958b043</guid><link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/cctv-v-bare-kafe.html</link><pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/cctv-v-bare-kafe.html</pdalink><pubDate>Thu, 29 Oct 2026 11:07:01 +0300</pubDate><media:rating scheme="urn:simple">nonadult</media:rating><category>format-article</category><description>Как проверить камеры у кассы, в зале и на кухне: время POS и видео, границы кадра, права доступа и вечерний приемочный тест с выгрузкой записи.</description><enclosure url="https://domiko.pro/wp-content/uploads/2026/10/videonablyudenie-v-kafe-hero.jpg" type="image/jpeg" length="319180" /><content:encoded>&lt;figure&gt;&lt;img src="https://domiko.pro/wp-content/uploads/2026/10/videonablyudenie-v-kafe-hero.jpg" alt="Камера видеонаблюдения над залом кафе и барной стойкой"/&gt;&lt;figcaption&gt;Концептуальная AI-иллюстрация; не реальный объект и не схема монтажа&lt;/figcaption&gt;&lt;/figure&gt;&lt;h1&gt;Один кассовый эпизод вместо обещания «видеть весь ресторан»&lt;/h1&gt;
+&lt;p&gt;Представьте учебную проверку: менеджеру нужно найти согласованную операцию у стойки по известному времени. У него есть кассовый интерфейс, несколько камер и доступ к архиву. Сможет ли он выбрать нужный фрагмент и передать файл? Такой тест полезнее общего обещания контролировать заведение: он показывает конкретный рабочий маршрут и его ограничения.&lt;/p&gt;
+&lt;p&gt;Проверку проводите в непубличном согласованном окне, без съемки посетителей ради демонстрации. Для кассы используйте допустимый тестовый режим и обезличенные данные; реальные платежи или возвраты не создавайте только ради видео. Сначала проверьте одно действие, затем распространите способ обсуждения на остальные зоны.&lt;/p&gt;
+&lt;h2&gt;Начните с времени, а не с количества камер&lt;/h2&gt;
+&lt;p&gt;POS — кассовая система, в которой оформляют операции. Запишите время учебного события в ее интерфейсе, название зоны и данные, по которым менеджер должен найти запись. Передайте ему описание и посмотрите, как он выбирает камеру, открывает архив и определяет границы фрагмента.&lt;/p&gt;
+&lt;p&gt;Сравните время операции и соответствующее действие на видео. Похожий кадр еще не подтверждает связь с чеком. Если обнаружено расхождение, зафиксируйте его и назначьте ответственного за исправление причины. Не оставляйте случайную поправку времени единственным способом поиска, который знает только монтажник.&lt;/p&gt;
+&lt;p&gt;Дальше выгрузите разрешенный фрагмент и откройте его у получателя. Архивный поиск и экспорт существуют в отдельных системах управления видео, но порядок и права нужно проверить на выбранной конфигурации. Демонстрация из административной учетной записи не подтверждает возможности менеджера.&lt;/p&gt;
+&lt;p&gt;Интеграция POS и видео — отдельный результат. Исполнитель должен показать поддерживаемый состав, данные связи операции с записью, переход к фрагменту и поведение при отсутствии связи. Ручной поиск не доказывает готовую интеграцию. Данные карточек гостей не переносите в демонстрационные материалы; используйте согласованные обезличенные идентификаторы.&lt;/p&gt;
+&lt;h2&gt;Разложите заведение на наблюдаемые события&lt;/h2&gt;
+&lt;p&gt;После кассового теста составьте матрицу для других зон. Вопрос о последовательности возврата отличается от вопроса об очередности подхода к стойке. Первый требует нужного действия у кассы и соответствующих данных, второй — контекста движения. Один общий вид зала не обязан отвечать на оба.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Стойка: согласованная операция в рабочей зоне без лишнего изображения экрана и данных.&lt;/li&gt;&lt;li&gt;Зал: выбранный подход к месту обслуживания и граница очереди.&lt;/li&gt;&lt;li&gt;Выдача: видимый момент передачи блюда.&lt;/li&gt;&lt;li&gt;Приемка: согласованный этап передачи поставки.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Эти строки — учебные требования, не истории реальных происшествий. Для каждой укажите нужный результат и границы. Проход поставщика не устанавливает состав всей поставки, а подход к стойке не показывает содержание разговора. Обзор и различение подробностей требуют подходящего кадра; одно разрешение камеры не гарантирует нужный результат.&lt;/p&gt;
+&lt;p&gt;Отметьте зоны на плане вместе с мебелью и возможными перекрытиями. Если предложена дополнительная камера, попросите назвать вопрос, который она закрывает. Согласуйте цели и условия съемки с ответственными в организации до запуска. Так сравнение предложений будет связано с действиями, а не только с числом устройств.&lt;/p&gt;
+&lt;h2&gt;Для кухни назовите предел доказуемого&lt;/h2&gt;
+&lt;p&gt;Общий запрос «контроль качества кухни» нужно перевести в наблюдаемую операцию. Например, в учебном сценарии видно передачу тарелки на выдачу. Это проверяет момент передачи в пределах ракурса, но не подтверждает скрытые ингредиенты внутри блюда, его температуру или санитарное состояние.&lt;/p&gt;
+&lt;p&gt;Попросите ответственного показать привычное размещение инвентаря и безопасный режим проверки. Посмотрите, не закрывают ли поверхность вытяжка, перегородка, руки сотрудника и посуда; не выходит ли предмет из кадра до завершения нужного этапа. Не меняйте порядок обращения с горячим оборудованием ради демонстрации.&lt;/p&gt;
+&lt;p&gt;Если меняется ракурс, повторите именно выбранное действие. Более широкий обзор может показать больше кухни и одновременно потерять важную поверхность. Известные перекрытия занесите в описание результата, чтобы менеджер не ожидал от записи того, чего она не показывает. Не обещайте автоматическое выявление нарушения по одному наличию камеры.&lt;/p&gt;
+&lt;h2&gt;Дайте менеджеру рабочую роль&lt;/h2&gt;
+&lt;p&gt;Разделите текущий просмотр, архив, экспорт и настройки. Менеджер разбирает выбранный эпизод, ответственный обслуживает систему, подрядчик получает доступ для согласованной работы. Это учебная схема обязанностей: возможности ограничений подтверждаются в конкретной версии и комплектации.&lt;/p&gt;
+&lt;p&gt;В отдельных системах управления видео доступны индивидуальные права, роли и регистрация действий. Проверьте их под нужными учетными записями: открывается ли разрешенная зона, недоступна ли посторонняя, разрешена ли выгрузка и закрыты ли настройки. Общий пароль не показывает границ между сотрудниками.&lt;/p&gt;
+&lt;p&gt;Определите путь разового запроса: кто получает описание события, проверяет обращение и передает файл. Публичную трансляцию не назначайте стандартом внутреннего разбора. Для подрядчика задайте цель и период доступа, затем проверьте отключение. При смене менеджера пересмотрите учетные записи вместе с инструкциями. Технические ограничения не заменяют согласование условий съемки и обращения с записью.&lt;/p&gt;
+&lt;h2&gt;Повторите действие при вечернем освещении&lt;/h2&gt;
+&lt;p&gt;Испытание в дневном пустом зале не показывает работу при приглушенном свете и перекрытиях. В непубличном окне используйте характерное размещение мебели и согласованные безопасные условия сцены. Посмотрите сохраненную запись движения возле стойки и отражающих поверхностей.&lt;/p&gt;
+&lt;p&gt;При большом перепаде яркости применяется WDR, но некоторые способы обработки сопровождаются артефактами движения. Проверяйте нужное действие, а не только красивый неподвижный кадр. Отметьте, какие детали различимы и какие остаются вне результата.&lt;/p&gt;
+&lt;p&gt;В приемочный лист включите событие и зону, пригодность вечернего кадра, сопоставление времени, отдельную проверку POS-интеграции при наличии, поиск рабочей ролью и открытие выгруженного файла у получателя. Для каждого пункта укажите способ проверки, результат и ответственного.&lt;/p&gt;
+&lt;p&gt;Выясните, где хранится запись и кто замечает отсутствие новых фрагментов. Глубину архива согласуйте с задачей заведения и расчетом хранения без универсальных сроков. Отказы испытывайте отдельно с ИТ-ответственным, не отключая рабочую сеть ради эксперимента. Передайте менеджеру карту зон, порядок поиска, данные учебного теста и ограничения.&lt;/p&gt;
+&lt;p&gt;Подробные сценарии и приемочный лист: &lt;a href="https://domiko.pro/blog/2026/10/29/videonablyudenie-v-kafe/"&gt;видеонаблюдение в кафе и ресторане&lt;/a&gt;. Для обсуждения проектирования используйте матрицу событий; &lt;a href="https://domiko.pro/umnyj-dom/"&gt;сравнить компании для проектирования системы&lt;/a&gt; можно в каталоге Domiko.&lt;/p&gt;
+</content:encoded></item><title>Domiko Pro</title>
     <link>https://domiko.pro</link>
-    <ns0:link href="https://efremovevgeny90-beep.github.io/dzen-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <ns2:link href="https://efremovevgeny90-beep.github.io/dzen-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Недвижимость, дома, участки — полезные статьи</description>
     <language>ru</language>
     <lastBuildDate>Tue, 06 Oct 2026 11:46:06 +0300</lastBuildDate>
@@ -15,7 +42,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/cctv-na-avtostoyanke.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/cctv-na-avtostoyanke.html</pdalink>
     <pubDate>Tue, 06 Oct 2026 11:46:06 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category><category>index</category><category>comment-all</category>
     <description>Как поставить задачу исполнителю: зоны наблюдения, номера, проверка днём и ночью, архив и критерии приёмки камер на автостоянке.</description>
     <enclosure url="https://efremovevgeny90-beep.github.io/dzen-rss/media/cctv-na-avtostoyanke-d4e9cb0dff2c.jpg" type="image/jpeg" />
@@ -67,7 +94,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/ecfe06da.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/ecfe06da.html</pdalink>
     <pubDate>Mon, 17 Aug 2026 13:21:32 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -136,7 +163,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/9b2ee9df.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/9b2ee9df.html</pdalink>
     <pubDate>Mon, 17 Aug 2026 13:21:25 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -198,7 +225,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/080a1555.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/080a1555.html</pdalink>
     <pubDate>Mon, 17 Aug 2026 13:21:19 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -260,7 +287,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/5e6f8ce9.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/5e6f8ce9.html</pdalink>
     <pubDate>Mon, 17 Aug 2026 13:21:12 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -323,7 +350,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/90f5af43.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/90f5af43.html</pdalink>
     <pubDate>Mon, 17 Aug 2026 13:20:52 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -401,7 +428,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/dbb092b9.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/dbb092b9.html</pdalink>
     <pubDate>Fri, 14 Aug 2026 09:50:02 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -477,7 +504,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/0f0552ac.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/0f0552ac.html</pdalink>
     <pubDate>Thu, 13 Aug 2026 18:00:02 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -547,7 +574,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/a232fa2e.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/a232fa2e.html</pdalink>
     <pubDate>Wed, 24 Jun 2026 18:41:48 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -619,7 +646,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/92e715c9.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/92e715c9.html</pdalink>
     <pubDate>Wed, 24 Jun 2026 13:58:36 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -693,7 +720,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/1fb4977d.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/1fb4977d.html</pdalink>
     <pubDate>Thu, 18 Jun 2026 14:06:47 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -753,7 +780,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/c81eaf12.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/c81eaf12.html</pdalink>
     <pubDate>Thu, 18 Jun 2026 13:47:06 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -811,7 +838,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/fd3229e1.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/fd3229e1.html</pdalink>
     <pubDate>Wed, 17 Jun 2026 10:02:07 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -889,7 +916,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/690eb195.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/690eb195.html</pdalink>
     <pubDate>Tue, 16 Jun 2026 18:02:16 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -967,7 +994,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/23b6c890.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/23b6c890.html</pdalink>
     <pubDate>Mon, 15 Jun 2026 10:02:48 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -1045,7 +1072,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/a220bfbe.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/a220bfbe.html</pdalink>
     <pubDate>Sun, 14 Jun 2026 18:39:00 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -1117,7 +1144,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/9cb110bb.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/9cb110bb.html</pdalink>
     <pubDate>Sun, 14 Jun 2026 10:01:41 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -1181,7 +1208,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/98252c8a.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/98252c8a.html</pdalink>
     <pubDate>Thu, 11 Jun 2026 18:10:57 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -1257,7 +1284,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/e0314e8a.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/e0314e8a.html</pdalink>
     <pubDate>Thu, 11 Jun 2026 10:02:30 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -1321,7 +1348,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/12171f09.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/12171f09.html</pdalink>
     <pubDate>Wed, 10 Jun 2026 10:18:12 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -1409,7 +1436,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/ec772178.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/ec772178.html</pdalink>
     <pubDate>Sun, 07 Jun 2026 18:09:58 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -1519,7 +1546,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/aebd649b.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/aebd649b.html</pdalink>
     <pubDate>Sun, 07 Jun 2026 10:24:32 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -1605,7 +1632,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/f39eeecd.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/f39eeecd.html</pdalink>
     <pubDate>Sat, 06 Jun 2026 19:06:18 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -1685,7 +1712,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/a846c832.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/a846c832.html</pdalink>
     <pubDate>Fri, 05 Jun 2026 10:01:49 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -1775,7 +1802,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/041ce6a5.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/041ce6a5.html</pdalink>
     <pubDate>Thu, 04 Jun 2026 18:01:19 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -1864,7 +1891,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/faf808ab.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/faf808ab.html</pdalink>
     <pubDate>Wed, 03 Jun 2026 11:04:33 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -1954,7 +1981,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/b50301ae.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/b50301ae.html</pdalink>
     <pubDate>Tue, 02 Jun 2026 10:01:03 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -2018,7 +2045,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/9b6a6e2c.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/9b6a6e2c.html</pdalink>
     <pubDate>Mon, 01 Jun 2026 18:01:29 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -2098,7 +2125,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/13f49808.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/13f49808.html</pdalink>
     <pubDate>Mon, 01 Jun 2026 17:49:51 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -2176,7 +2203,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/03623ebc.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/03623ebc.html</pdalink>
     <pubDate>Mon, 01 Jun 2026 17:42:17 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -2248,7 +2275,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/18e1a3dc.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/18e1a3dc.html</pdalink>
     <pubDate>Mon, 01 Jun 2026 17:41:14 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -2324,7 +2351,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/2ff84ffa.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/2ff84ffa.html</pdalink>
     <pubDate>Mon, 01 Jun 2026 17:40:14 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -2405,7 +2432,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/d0840a48.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/d0840a48.html</pdalink>
     <pubDate>Mon, 01 Jun 2026 17:39:16 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -2467,7 +2494,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/79ad2be5.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/79ad2be5.html</pdalink>
     <pubDate>Thu, 28 May 2026 11:43:00 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -2531,7 +2558,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/55e971f7.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/55e971f7.html</pdalink>
     <pubDate>Thu, 28 May 2026 18:00:00 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -2607,7 +2634,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/eaa0fa43.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/eaa0fa43.html</pdalink>
     <pubDate>Thu, 28 May 2026 10:00:00 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -2697,7 +2724,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/cd77aa44.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/cd77aa44.html</pdalink>
     <pubDate>Wed, 27 May 2026 10:00:00 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
@@ -2785,7 +2812,7 @@
     <link>https://efremovevgeny90-beep.github.io/dzen-rss/articles/9407d7d3.html</link>
     <pdalink>https://efremovevgeny90-beep.github.io/dzen-rss/articles/9407d7d3.html</pdalink>
     <pubDate>Wed, 27 May 2026 18:00:00 +0300</pubDate>
-    <ns1:rating scheme="urn:simple">nonadult</ns1:rating>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
     <category>format-article</category>
     <category>index</category>
     <category>comment-all</category>
